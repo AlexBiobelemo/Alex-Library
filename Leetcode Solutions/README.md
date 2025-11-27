@@ -27,7 +27,7 @@ Equivalent of 1–3 years of consistent manual practice — an unmatched speed i
 
 ## Visit the Main Project
 
-🔗 [AlexBiobelemo/Sophia---Organize-share-generate-code-snippets](https://github.com/AlexBiobelemo/Sophia---Organize-share-generate-code-snippets)  
+🔗 [AlexBiobelemo/Sophia-Code](https://github.com/AlexBiobelemo/Sophia-Code)  
 
 **Sophia** is a full-featured knowledge management system that lets developers organize, share, and generate code snippets & technical insights — now supercharged with an automated algorithmic learning and solution generation.
 
