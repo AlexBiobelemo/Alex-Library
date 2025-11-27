@@ -19,9 +19,11 @@ Equivalent of 1–3 years of consistent manual practice — an unmatched speed i
 
 ## Explore the Solutions
 
-- `/Easy` — Hash Maps, Pointers, Basic Trees  
-- `/Medium` — Dynamic Programming, Graphs, Advanced Arrays  
-- `/Hard` — Advanced Graph Theory, Complex Data Structures
+## Explore the Solutions
+
+- [Easy](https://github.com/AlexBiobelemo/Alex-Library/blob/main/Leetcode%20Solutions/Easy.md) — Hash Maps, Two Pointers, Trees, Arrays  
+- [Medium](https://github.com/AlexBiobelemo/Alex-Library/blob/main/Leetcode%20Solutions/Medium.md) — DP, Graphs, Heaps, Sliding Window, Greedy  
+- [Hard](https://github.com/AlexBiobelemo/Alex-Library/blob/main/Leetcode%20Solutions/Hard.md) — Advanced Graphs, Segment/Fenwick Trees, Tries, Flow, Complex DP
 
 ## Visit the Main Project
 
