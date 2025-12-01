@@ -4,6 +4,7 @@ This repository is the structured output of **Project Sophia**, a powerful, cust
 It proves that the bottleneck in learning is not in writing code, but in generating and verifying **expert-level analysis**.
 
 ## What makes these solutions better than typical submissions?
+![LeetCode Demo GIF](https://raw.githubusercontent.com/AlexBiobelemo/Alex-Library/main/Alex-Library/Leetcode%20Solutions/Media/Leetcode%20Demo.gif)
 
 -  **Unprecedented Volume**  
 Equivalent of 1–3 years of consistent manual practice — an unmatched speed in acquiring vast algorithmic knowledge, achieved in just 1 month
