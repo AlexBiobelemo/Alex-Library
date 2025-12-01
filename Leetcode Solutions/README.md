@@ -17,7 +17,6 @@ Equivalent of 1–3 years of consistent manual practice — an unmatched speed i
 -  **Structured Learning**  
   Organized by topic, language, difficulty (Easy/Medium/Hard), and tags (hash map, two pointers, etc.) — a queryable expert library.
 
-## Explore the Solutions
 
 ## Explore the Solutions
 
