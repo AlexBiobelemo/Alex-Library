@@ -1,5 +1,8 @@
 # Leetcode Solutions
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AlexBiobelemo&repo=Alex-Library&countColor=%237B1E7A)
+
+
 This repository is the structured output of **Project Sophia**, a powerful, custom-built AI development tool designed to accelerate technical readiness and pattern recognition.  
 It proves that the bottleneck in learning is not in writing code, but in generating and verifying **expert-level analysis**.
 
