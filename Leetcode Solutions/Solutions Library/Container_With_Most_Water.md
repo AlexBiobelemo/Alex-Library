@@ -95,5 +95,6 @@ class Solution(object):
             else:
                 right -= 1
         
+
         return max_water
 ```
