@@ -2465,5 +2465,5 @@ def get_products_optimized():
 
 ---
 
-*Last Updated: December 2024*
-*Version: 1.0*
+*Last Updated: December 2025*
+*Alex Alagoa Biobelemo*
